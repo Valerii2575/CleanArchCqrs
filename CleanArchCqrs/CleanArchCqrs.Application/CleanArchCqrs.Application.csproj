@@ -12,9 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Common\Behaviors\" />
     <Folder Include="Common\Extentions\" />
-    <Folder Include="Common\Interfaces\" />
     <Folder Include="Common\Mappings\" />
     <Folder Include="Common\Models\" />
     <Folder Include="Features\Products\Commands\CreateProduct\" />
@@ -22,10 +20,8 @@
     <Folder Include="Features\Products\Commands\UpdateProduct\" />
     <Folder Include="Features\Products\Queries\GetProduct\" />
     <Folder Include="Features\Products\Queries\GetProducts\" />
-    <Folder Include="Features\Users\Commands\CreateUser\" />
     <Folder Include="Features\Users\Commands\DeleteUser\" />
     <Folder Include="Features\Users\Commands\UpdateUser\" />
-    <Folder Include="Features\Users\Queries\GetUser\" />
     <Folder Include="Features\Users\Queries\GetUsers\" />
   </ItemGroup>
 
